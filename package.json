@@ -1,0 +1,23 @@
+{
+  "name": "aurion",
+  "version": "1.0.0",
+  "description": "Routing_distance",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohan Treadwell",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.16.1",
+    "typescript": "^3.3.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.16.1",
+    "@types/node": "^16.10.3",
+    "nodemon": "^2.0.13",
+    "typescript": "^3.3.3"
+  },
+  "keywords": []
+}
